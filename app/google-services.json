@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512438271356",
+    "project_id": "login-de-android",
+    "storage_bucket": "login-de-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512438271356:android:3017cdd8a2b430407d78f9",
+        "android_client_info": {
+          "package_name": "com.example.taller_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvaueHOJYs-u4GgX-JCmlmb-lP52K1uYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
